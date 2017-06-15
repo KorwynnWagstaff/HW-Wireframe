@@ -5,6 +5,7 @@ body {
 	color: black;
 	font-size: 18px;
 	line-height: 32px;
+	padding-left: 375px;
 }
 
 .header {
@@ -32,7 +33,7 @@ body {
 	width: 470px;
 	background-color: #cfcfcf;
 	text-align: center;
-	border-bottom: 10px;
+	border-bottom: 10px
 }
 
 .article {
@@ -44,7 +45,6 @@ body {
     padding-right: 15px;
     color: white;
 }
-
 
 .headings {
 	background-color: #cfcfcf;
