@@ -9,8 +9,8 @@ body {
 }
 
 .header {
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	width: 810px;
 	background-color: #cfcfcf;
 	text-align: center;
@@ -19,8 +19,8 @@ body {
 
 .nav {
 	margin-top: 10px;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	width: 810px;
 	background-color: #cfcfcf;
 	text-align: center;
@@ -77,6 +77,6 @@ body {
 	float: left; 
 	margin-top: 10px;
 	text-align: center;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
